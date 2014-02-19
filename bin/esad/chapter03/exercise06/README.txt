@@ -1,0 +1,1 @@
+Point out and remove the code smells in the code 
